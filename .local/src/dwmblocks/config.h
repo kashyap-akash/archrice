@@ -4,8 +4,8 @@ static const Block blocks[] = {
 /*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
   
  
- // {"",  "clock",  60, 1},
- {""," sb-music",  3,  4},
+ //{"",  "clock",  60, 1},
+ //{""," sb-music",  3,  4},
   {"",  " sb-cpu",  3,  4},
  {"",  " sb-battery",  5,  4}, 
  {"",  " sb-volume", 1,  10},

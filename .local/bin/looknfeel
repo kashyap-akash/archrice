@@ -8,5 +8,6 @@ xwallpaper --zoom $wall
 #generate colour scheme
 wal -c
 wal -i $wall
+xgamma -gamma 0.9
 
 xdotool key super+F5
