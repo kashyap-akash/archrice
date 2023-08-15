@@ -4,10 +4,9 @@ wall=$(find ~/Pictures/Wallpapers/wallhaven-9mjoy1.png)
 
 #wall1=$(find ~/Pictures/Wallpapers/wallhaven-rrodj7.jpg)
 #add this as wallpaper
-xwallpaper --zoom $wall
+xwallpaper --maximize $wall
 #generate colour scheme
 wal -c
 wal -i $wall
 xgamma -gamma 0.9
-
 xdotool key super+F5
